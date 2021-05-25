@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* width: 90%; */
+    /* height: 340px; */
+}
+.header{
+
+width: 90%;
+
+margin: auto;
+overflow: hidden;
+}
+.logo{
+
+}
+.logo img{
+
+float: left;
+}
+nav{
+
+margin-top: 10px;
+}
+nav ul{
+
+list-style: none;
+
+float: left;
+
+margin-top: 10px;
+}
+nav ul li{
+
+float: left;
+
+margin-left: 25px;
+
+font-weight: 600;
+}
+.nav_right{
+    
+float: right;
+    
+text-transform: capitalize;
+    
+background-color: #FF6162;
+    
+/* width: 0px; */
+    
+padding: 10px;
+    
+color: white;
+    
+font-weight: 600;
+}
+.main_content{
+    /* background-color: brown; */
+    width: 90%;
+    height: 340px;
+    margin: auto;
+    margin-top: 70px;
+    overflow: hidden;
+}
+.minimal{
+
+width: 50%;
+
+float: left;
+}
+.minimal h1{
+    text-transform: capitalize;
+    color: #444067;
+    font-size: 45px;
+}
+.minimal p{
+
+color: #a29f9d;
+
+font-size: 20px;
+}
+.main_content_pic{
+
+/* width: 50%; */
+
+float: right;
+}
+.main_content_pic img{
+    
+}
+.items_one{
+    margin-top: 50px;
+    overflow: hidden;
+
+}
+.items_one h1{
+    text-align: center;
+
+}
+.items_one p{
+    text-align: center;
+
+}
+.classic{
+    /* margin-top: 30px; */
+}
+
+.classic img{
+    float: left;
+    width: 22%;
+}
+.shop{
+
+margin-left: 10px;
+}
+.shop img{
+    
+margin-left: 10px;
+    
+float: left;
+    
+width: 22%;
+}
+.dark{
+
+}
+.dark img{
+    
+width: 22%;
+    
+float: left;
+}
+.minimal{
+
+}
+.minimal img{
+    width: 22%;
+    float: right;
+    float: right;
+}
+.features{
+
+width: 80%;
+
+margin: auto;
+}
+.text{
+    
+text-align: center;
+    
+margin-top: 100px;
+    
+margin-bottom: 30px;
+    
+text-transform: capitalize;
+}
+.text h1{
+
+}
+.text p{
+
+color: #A5ABB6;
+
+margin-top: 15px;
+}
+.all_features{
+    
+text-align: center;
+}
+.footer{
+
+text-align: center;
+
+text-transform: capitalize;
+
+background-color: #292640;
+
+color: #FFFFFF;
+
+margin-top: 77px;
+
+padding: 30px 30px;
+}
+.footer h1{
+
+}
+.pur{
+    
+text-transform: capitalize;
+    
+background-color: #FF6162;
+    
+padding: 10px;
+    
+color: white;
+    
+font-weight: 600;
+    
+margin-left: 43%;
+    
+margin-right: 43%;
+}
